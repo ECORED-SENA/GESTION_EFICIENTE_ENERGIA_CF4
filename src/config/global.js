@@ -55,6 +55,27 @@ export default {
         ],
       },
       {
+        nombreRuta: 'tema2',
+        icono: 'far fa-file-alt',
+        numero: '2',
+        titulo: 'Caracterización del Sector Eléctrico Colombiano.',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.1',
+            titulo: 'Organización del sector.',
+            hash: 't_2_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.2',
+            titulo: 'Agentes del Mercado de la Energía Eléctrica.',
+            hash: 't_2_2',
+          },
+        ],
+      },
+      {
         nombreRuta: 'tema10',
         icono: 'far fa-file-alt',
         numero: '10',

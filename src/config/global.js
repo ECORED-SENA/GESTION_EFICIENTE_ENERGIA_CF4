@@ -103,6 +103,40 @@ export default {
         ],
       },
       {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Conformidad de las instalaciones eléctricas',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.1',
+            titulo: 'Certificados de conformidad de producto',
+            hash: 't_4_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.2',
+            titulo:
+              'Demostración de conformidad de las instalaciones eléctricas',
+            hash: 't_4_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.3',
+            titulo: 'Dictamen de inspección',
+            hash: 't_4_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.4',
+            titulo: 'Acciones de vigilancia y control',
+            hash: 't_4_4',
+          },
+        ],
+      },
+      {
         nombreRuta: 'tema10',
         icono: 'far fa-file-alt',
         numero: '10',

@@ -154,8 +154,8 @@
     .row.mb-4
       .col-lg-1
       .col-lg-10
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img(
+        .bloque-texto-g.color-secundario.t2_img1.p-3.p-sm-4.p-md-5
+          .bloque-texto-g__img.t2_div1(
             :style="{'background-image': `url(${require('@/assets/curso/tema2/img13.svg')})`}"
           )
           .bloque-texto-g__texto.p-4

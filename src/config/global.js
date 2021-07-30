@@ -76,6 +76,33 @@ export default {
         ],
       },
       {
+        nombreRuta: 'tema3',
+        icono: 'far fa-file-alt',
+        numero: '3',
+        titulo: 'Sistemas de puesta a tierra (SPAT)',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.1',
+            titulo: 'SPAT tipo TT',
+            hash: 't_3_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.2',
+            titulo: 'SPAT tipo TN',
+            hash: 't_3_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.3',
+            titulo: 'SPAT tipo IT',
+            hash: 't_3_3',
+          },
+        ],
+      },
+      {
         nombreRuta: 'tema10',
         icono: 'far fa-file-alt',
         numero: '10',

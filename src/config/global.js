@@ -29,20 +29,20 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Reglamento técnico de instalaciones eléctricas (RETIE).',
+            titulo: 'Reglamento Técnico de Instalaciones Eléctricas - RETIE',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
             titulo:
-              'Reglamento técnico de iluminación y alumbrado público (RETILAP)',
+              'Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP',
             hash: 't_1_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo: 'Código eléctrico colombiano (NTC 2050)',
+            titulo: 'Código Eléctrico Colombiano NTC 2050',
             hash: 't_1_3',
           },
           {
@@ -58,19 +58,19 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Caracterización del Sector Eléctrico Colombiano.',
+        titulo: 'Caracterización del sector eléctrico colombiano',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Organización del sector.',
+            titulo: 'Organización del sector',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Agentes del Mercado de la Energía Eléctrica.',
+            titulo: 'Agentes del mercado de la energía eléctrica',
             hash: 't_2_2',
           },
         ],
@@ -79,7 +79,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Sistemas de puesta a tierra (SPAT)',
+        titulo: 'Sistemas de Puesta a Tierra - SPAT',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -168,134 +168,202 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'Instituto Colombiano de Normas Técnicas y Certificación - ICONTEC. (1998). Norma Técnica Colombiana NTC 2050 Código Eléctrico Colombiano. Recuperado el 6 de julio del 2021 de la base de datos biblioteca SENA.',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'Resolución Número 90708 de 2013 y anexos. [Ministerio de Minas y Energía de Colombia]. Por la cual se expide el Reglamento Técnico de Instalaciones Eléctricas - RETIE, que fija las condiciones técnicas que garanticen la seguridad en los procesos de Generación, Transmisión, Transformación, Distribución y Utilización de la energía eléctrica en la República de Colombia y se dictan otras disposiciones. Agosto 30 de 2013.',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Resolución Número 181331 de 2009 y anexo. [Ministerio de Minas y Energía de Colombia]. Por la cual se expide el Reglamento Técnico de Iluminación y Alumbrado Público RETILAP y se dictan otras disposiciones. Agosto 6 de 2009.',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'Resolución Número 5018 de 2019 y anexo. [Ministerio del Trabajo]. Por la cual se establecen lineamientos en Seguridad y Salud en el Trabajo en los procesos de Generación, Transmisión, Distribución y Comercialización de la Energía Eléctrica. Noviembre 20 de 2019.',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Servicio Nacional de Aprendizaje - SENA. (2013). Caracterización del sector eléctrico colombiano. Recuperado el 6 de julio del 2021 del repositorio SENA',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
-      significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+      termino: 'CREG',
+      significado: 'Comisión de Regulación de Energía y Gas.',
     },
     {
-      termino: 'Suftware',
+      termino: 'Normativa',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'norma o conjunto de normas que guían, dirigen y ajustan el comportamiento de un individuo, organización, materia y/o actividad.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Partes energizadas',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'conductores, barras, terminales o componentes eléctricos sin aislar o expuestos, que crean riesgo de descarga eléctrica.',
     },
     {
-      termino: 'Áectores',
+      termino: 'Persona calificada',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'persona capacitada y familiarizada con la construcción y funcionamiento de los equipos y los riesgos que conllevan.',
     },
     {
-      termino: 'Moda',
+      termino: 'Puesto a tierra',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'conectado a tierra o a cualquier cuerpo conductor que pueda actuar como tierra.',
     },
     {
-      termino: 'Diseño',
+      termino: 'Reglamento Técnico',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'según la Ley 170 de 1994, es un documento en el que se establecen las características de un producto, los procesos y métodos de producción con ellas relacionados, con inclusión de las disposiciones administrativas aplicables, y cuya observancia es obligatoria.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Requisito',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'es una condición necesaria para tener acceso a algo, o para que una cosa suceda.',
     },
     {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+      termino: 'RETIE',
+      significado: 'Reglamento Técnico de Instalaciones Eléctricas.',
     },
     {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+      termino: 'RETILAP',
+      significado: 'Reglamento Técnico de Iluminación y Alumbrado Público.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Tensión a tierra',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'en los circuitos puestos a tierra, es la tensión entre un conductor dado y  el punto del conductor del circuito que está puesto a tierra; en los circuitos no puestos a tierra, es la mayor diferencia de tensión entre un conductor dado y cualquier otro conductor del circuito.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Tensión de contacto',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'diferencia de potencial que durante una falla se presenta entre una estructura metálica puesta a tierra y un punto de la superficie del terreno a una distancia de un metro. Esta distancia horizontal es equivalente a la máxima que se puede alcanzar al extender un brazo.',
+    },
+    {
+      termino: 'Tensión de paso',
+      significado:
+        'diferencia de potencial que durante una falla se presenta entre dos puntos de la superficie del terreno, separados por una distancia de un paso.',
+    },
+    {
+      termino: 'Tensión nominal',
+      significado:
+        'valor nominal asignado a un circuito o sistema para designar habitualmente su nivel de tensión (por ejemplo., 120 V/240 V, 480 V/277 V (sistema en estrella), 600 V). La tensión a la que funciona un circuito puede variar sobre la nominal dentro de un margen que permita el funcionamiento satisfactorio de los equipos.',
+    },
+    {
+      termino: 'Tensión transferida',
+      significado:
+        'es un caso especial de tensión de contacto, donde un potencial es conducido hasta un punto remoto respecto a la subestación o a una puesta a tierra',
+    },
+    {
+      termino: 'UPME',
+      significado: 'Unidad de Planeación Minero Energética.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Servicio Nacional de Aprendizaje - SENA. (2013). Caracterización del sector eléctrico colombiano. Recuperado el 6 de julio del 2021 del repositorio SENA.',
+      tipo: 'Publicación Oficial.',
+      link: 'Repositorio SENA.',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Instituto Colombiano de Normas Técnicas y Certificación - ICONTEC. (1998). Norma Técnica Colombiana NTC 2050 Código Eléctrico Colombiano. Recuperado el 6 de julio del 2021 de la base de datos biblioteca SENA.',
+      tipo: 'Norma Técnica Colombiana Código Eléctrico Colombiano.',
+      link: 'Base de datos biblioteca SENA.',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
+        'Resolución Número 90708 de 2013 y anexos. [Ministerio de Minas y Energía de Colombia]. Por la cual se expide el Reglamento Técnico de Instalaciones Eléctricas - RETIE, que fija las condiciones técnicas que garanticen la seguridad en los procesos de Generación, Transmisión, Transformación, Distribución y Utilización de la energía eléctrica en la República de Colombia y se dictan otras disposiciones. Agosto 30 de 2013.',
+      tipo: 'Resolución Reglamento Técnico de Instalaciones Eléctricas RETIE.',
+      link:
+        'https://www.minenergia.gov.co/documents/10180/1179442/Anexo+General+del+RETIE+vigente+actualizado+a+2015-1.pdf/57874c58-e61e-4104-8b8c-b64dbabedb13',
     },
     {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+      texto:
+        'Resolución Número 181331 de 2009 y anexo. [Ministerio de Minas y Energía de Colombia]. Por la cual se expide el Reglamento Técnico de Iluminación y Alumbrado Público RETILAP y se dictan otras disposiciones. Agosto 6 de 2009.',
+      tipo:
+        'Resolución Reglamento Técnico de Iluminación y Alumbrado Público RETILAP.',
+      link:
+        'https://www.minenergia.gov.co/documents/10180/23931303/RES180540_2010.pdf/a8e7e904-dc75-41a3-be82-9b990dd6ddb6',
     },
     {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
+      texto:
+        'Resolución Número 5018 de 2019 y anexo. [Ministerio del Trabajo]. Por la cual se establecen lineamientos en Seguridad y Salud en el Trabajo en los procesos de Generación, Transmisión, Distribución y Comercialización de la Energía Eléctrica. Noviembre 20 de 2019.',
+      tipo: 'Resolución de Lineamientos en Seguridad y Salud en el Trabajo.',
+      link:
+        'https://camacol.co/sites/default/files/Resoluci%C3%B3n%205018%20del%2020112019%20SST%20en%20energ%C3%ADa%20el%C3%A9ctrica.pdf',
+    },
+    {
+      texto: 'Ministerio de Minas y Energía de Colombia (2021). Funciones.',
+      tipo: 'Página web del Ministerio de Minas y Energía de Colombia.',
+      link: 'https://www.minenergia.gov.co/funciones-y-deberes',
+    },
+    {
+      texto:
+        'Unidad de Planeación Minero Energética - UPME (2021). Funciones y deberes.',
+      tipo: 'Página web de la Unidad de Planeación Minero Energética.',
+      link:
+        'https://www1.upme.gov.co/Entornoinstitucional/NuestraEntidad/Paginas/Funciones-y-deberes.aspx',
+    },
+    {
+      texto:
+        'Comisión de Regulación de Energía y Gas - CREG (2021). Funciones.',
+      tipo: 'Página web de la Comisión de Regulación de Energía y Gas.',
+      link: 'https://www.creg.gov.co/creg/quienes-somos/funciones',
+    },
+    {
+      texto:
+        'Superintendencia de Servicios Públicos Domiciliarios (2021). Funciones.',
+      tipo:
+        'Página web de la Superintendencia de Servicios Públicos Domiciliarios.',
+      link:
+        'https://www.superservicios.gov.co/nuestra-entidad/quienes-somos/funciones',
+    },
+    {
+      texto:
+        'Superintendencia de Industria y Comercio (2021). Objetivos y funciones.',
+      tipo: 'Página web de la Superintendencia de Industria y Comercio.',
+      link: 'https://www.sic.gov.co/objetivos-y-funciones',
+    },
+    {
+      texto: 'XM (2021). Qué hacemos.',
+      tipo: 'Página web de XM.',
+      link:
+        'https://www.xm.com.co/corporativo/Paginas/Nuestra-empresa/que-hacemos.aspx',
+    },
+    {
+      texto:
+        'Consejo Nacional de Operación del sector Eléctrico (2016). Quienes somos. ',
+      tipo:
+        'Página web del Consejo Nacional de Operación del sector Eléctrico.',
+      link: 'https://www.cno.org.co/content/quienes-somos',
+    },
+    {
+      texto:
+        'Comité Asesor de Comercialización del sector eléctrico. Quiénes somos. ',
+      tipo:
+        'Página web del Comité Asesor de Comercialización del sector eléctrico.',
+      link: 'http://www.cac.org.co/2016/html/quienes.html',
+    },
+    {
+      texto:
+        'ISAGEN. (2012). Cómo se genera la energía [Video]. Youtube. https://www.youtube.com/watch?v=YWEXLSjaYf0&t=178s',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=YWEXLSjaYf0&t=178s',
+    },
+    {
+      texto:
+        'CENS Grupo EPM. (2015). Clases de Redes Eléctricas - Aprende con CENS [Video]. Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=tlQNRJxpvxU&t=63s',
+    },
+    {
+      texto:
+        'Comisión CREG. (2014). Conoce la factura de energía eléctrica [Video]. Youtube. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=LriXlAKUd9A&t=25s',
     },
   ],
   creditos: {

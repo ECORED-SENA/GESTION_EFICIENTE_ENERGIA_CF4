@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 3
-      h1 Sistemas de puesta a tierra (SPAT)
+      h1 Sistemas de Puesta a Tierra - SPAT
 
     .row.mb-4
       .col-lg-6
@@ -14,17 +14,17 @@
           img(src='@/assets/curso/tema3/img01.svg')
       .col-lg-6.d-flex
         .cajon.color-acento-botones.p-5   
-          p Un sistema de puesta a tierra es el conjunto de conductores, electrodos y compuestos químicos reductores de la resistividad volumétrica del suelo circundante al electrodo, que se instalan como medio de descarga a tierra de la energía transitoria asociada a sobretensiones provocadas en la red por impulsos atmosféricos (rayos) o por impulsos de maniobras de cierre y/o apertura de interruptores. Bajo este contexto y de acuerdo a la ley de ohm se deduce que un bajo valor de la resistencia de puesta a tierra es siempre deseable para disminuir la máxima elevación de potencial o GPR (Ground Potential Rise) en caso de circulación de corrientes de falla.
+          p Un Sistema de Puesta a Tierra - SPAT, es el conjunto de conductores, electrodos y compuestos químicos reductores de la resistividad volumétrica del suelo circundante al electrodo, que se instalan como medio de descarga a tierra de la energía transitoria asociada a sobretensiones provocadas en la red por impulsos atmosféricos (rayos) o por impulsos de maniobras de cierre y/o apertura de interruptores. Bajo este contexto y de acuerdo a la ley de ohm se deduce que un bajo valor de la resistencia de puesta a tierra es siempre deseable para disminuir la máxima elevación de potencial o GPR (Ground Potential Rise), en caso de circulación de corrientes de falla.
 
     .row.mb-5
       .col-lg-6.d-flex
         .cajon.color-primario.p-5   
-          p El propósito de la instalación de este sistema es que los valores máximos de las tensiones de paso (diferencia de potencial que durante una falla se presenta entre dos puntos de la superficie del terreno, separados por una distancia de un paso), de contacto (diferencia de potencial que durante una falla se presenta entre una estructura metálica puesta a tierra y un punto de la superficie del terreno a una distancia de un metro) y transferida (Es un caso especial de tensión de contacto, donde un potencial es conducido hasta un punto remoto respecto a la subestación o a una puesta a tierra) a que puedan estar sometidos los seres humanos, no superen los umbrales de soportabilidad.
+          p El propósito de la instalación de este sistema es que los valores máximos de las tensiones de paso (diferencia de potencial que durante una falla se presenta entre dos puntos de la superficie del terreno, separados por una distancia de un paso), de contacto (diferencia de potencial que durante una falla se presenta entre una estructura metálica puesta a tierra y un punto de la superficie del terreno a una distancia de un metro) y transferida (es un caso especial de tensión de contacto, donde un potencial es conducido hasta un punto remoto respecto a la subestación o a una puesta a tierra) a que puedan estar sometidos los seres humanos, no superen los umbrales de soportabilidad.
       .col-lg-6
         figure
           img(src='@/assets/curso/tema3/img02.svg')
 
-    p.mb-4 La construcción de un SPAT para instalaciones de uso final  incluye típicamente la instalación de:
+    p.mb-4 La construcción de un SPAT para instalaciones de uso final incluye típicamente la instalación de:
       
     TabsA.color-acento-botones.mb-5    
       .tarjeta.t2_div3.p-4(titulo="Electrodo de puesta a tierra")
@@ -80,8 +80,8 @@
     .row.mb-5
       .col-lg-6.d-flex
         .cajon.color-primario.p-4  
-          p.mb-4 En este esquema de conexión el neutro de la fuente y las partes metálicas de los equipos se conectan directamente, a un SPAT diferente cada uno de ellos. En caso de presentarse falla a tierra, circula una corriente a través del terreno hasta el punto neutro de la fuente, originando una peligrosa diferencia de potencial entre los conductores de neutro y tierra, que requiere ser despejada automáticamente por acción de una protección diferencial que debe estar integrada al interruptor principal, provocando la desconexión de la fuente.
-          p.mb-0 Teniendo en cuenta que según criterio de la norma IEC-61000-5-2 adoptado por el RETIE en el numeral 15.1 cuando en un lugar existan varias puestas a tierra, todas ellas deben estar interconectadas eléctricamente, el uso de este esquema de protección está permitido siempre y cuando se interconectan todos los conductores de protección de las partes metálicas en el lado de la carga.
+          p.mb-4 En este esquema de conexión, el neutro de la fuente y las partes metálicas de los equipos se conectan directamente a un SPAT diferente cada uno de ellos. En caso de presentarse falla a tierra, circula una corriente a través del terreno hasta el punto neutro de la fuente, originando una peligrosa diferencia de potencial entre los conductores de neutro y tierra, que requiere ser despejada automáticamente por acción de una protección diferencial que debe estar integrada al interruptor principal, provocando la desconexión de la fuente.
+          p.mb-0 Teniendo en cuenta que según criterio de la norma IEC-61000-5-2 adoptado por el RETIE en el numeral 15.1, cuando en un lugar existan varias puestas a tierra, todas ellas deben estar interconectadas eléctricamente; el uso de este esquema de protección está permitido siempre y cuando se interconectan todos los conductores de protección de las partes metálicas en el lado de la carga.
       .col-lg-6.d-flex.align-items-center
         figure
           img(src='@/assets/curso/tema3/img08.svg')
@@ -93,8 +93,8 @@
       .col-lg-1
       .col-lg-10
         .cajon.color-primario.p-5
-          p.mb-4 En este esquema de conexión el neutro de la fuente se conecta directamente a un SPAT y las partes metálicas de los equipos se conectan directamente al neutro de la red, ya sea en el lado de los equipos (TN-C) o en el lado de la fuente (TN-S) en cuyo caso aparece un nuevo conductor (PE) que agrupa cada uno los conductores de protección de las partes metálicas de los equipos con el neutro del sistema en el lado de la fuente.
-          p.mb-0 El esquema TN-C tiene la desventaja de requerir el cálculo de la protección diferencial de forma individual para cada equipo y las ventajas de usar solo un SPAT y de no necesitar la protección diferencial ya que la diferencia de potencial entre neutro y tierra es virtualmente cero. Aunque por estas razones su uso es apropiado para la conexión temporal de equipos únicos, el RETIE en el numeral 27.2 prohíbe expresamente el uso de esquemas de conexión que combinen en un solo conductor las funciones de neutro y tierra.
+          p.mb-4 En este esquema de conexión, el neutro de la fuente se conecta directamente a un SPAT y las partes metálicas de los equipos se conectan directamente al neutro de la red, ya sea en el lado de los equipos (TN-C) o en el lado de la fuente (TN-S), en cuyo caso aparece un nuevo conductor (PE) que agrupa cada uno los conductores de protección de las partes metálicas de los equipos, con el neutro del sistema en el lado de la fuente.
+          p.mb-0 El esquema TN-C tiene la desventaja de requerir el cálculo de la protección diferencial de forma individual para cada equipo y las ventajas de usar solo un SPAT y de no necesitar la protección diferencial, ya que la diferencia de potencial entre neutro y tierra es virtualmente cero. Aunque por estas razones su uso es apropiado para la conexión temporal de equipos únicos, el RETIE en el numeral 27.2 prohíbe expresamente el uso de esquemas de conexión que combinen en un solo conductor las funciones de neutro y tierra.
       .col-lg-1
 
     .row.mb-4
@@ -104,7 +104,7 @@
           img(src='@/assets/curso/tema3/img09.svg')
       .col-lg-2
 
-    p.mb-5.px-5.mx-5 El esquema TN-S tiene la desventaja de requerir un conductor adicional y las ventajas de usar solo un SPAT y de no necesitar la protección diferencial ya que la diferencia de potencial entre neutro y tierra será virtualmente cero. Por estas razones es el de mayor uso en Colombia.
+    p.mb-5.px-5.mx-5 El esquema TN-S tiene la desventaja de requerir un conductor adicional y las ventajas de usar solo un SPAT y de no necesitar la protección diferencial, ya que la diferencia de potencial entre neutro y tierra será virtualmente cero. Por estas razones es el de mayor uso en Colombia.
 
     .row.mb-5
       .col-lg-2
@@ -120,7 +120,7 @@
       .col-lg-1
       .col-lg-10
         .cajon.color-acento-botones.p-5  
-          p.mb-0 En este esquema de conexión el neutro de la fuente no se conecta a tierra o se hace a través de una resistencia de alta impedancia y las partes metálicas de los equipos se conectan directamente a un SPAT
+          p.mb-0 En este esquema de conexión, el neutro de la fuente no se conecta a tierra o se hace a través de una resistencia de alta impedancia y las partes metálicas de los equipos se conectan directamente a un SPAT.
       .col-lg-1
 
     .row.mb-4
@@ -130,7 +130,7 @@
           img(src='@/assets/curso/tema3/img11.svg')
       .col-lg-2
       
-    p.mb-5.px-5.mx-5 El esquema TN-S tiene la desventaja de aumentar el riesgo de exposición a sobretensiones eléctricas al requerir la ocurrencia de dos fallas simultáneas para que actúe la protección de sobre corriente y las ventajas de usar solo un SPAT y de ofrecer una mayor continuidad del servicio. Por estas razones es el de mayor uso en aplicaciones donde la continuidad del servicio es un factor crítico como en instalaciones hospitalarias siempre y cuando se instale un esquema de detección de fallas a tierra y monitoreo de aislamiento.
+    p.mb-5.px-5.mx-5 El esquema TN-S tiene la desventaja de aumentar el riesgo de exposición a sobretensiones eléctricas, al requerir la ocurrencia de dos fallas simultáneas para que actúe la protección de sobre corriente y las ventajas de usar solo un SPAT y de ofrecer una mayor continuidad del servicio. Por estas razones es el de mayor uso en aplicaciones donde la continuidad del servicio es un factor crítico, como en instalaciones hospitalarias siempre y cuando se instale un esquema de detección de fallas a tierra y monitoreo de aislamiento.
 
 </template>
 

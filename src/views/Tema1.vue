@@ -23,11 +23,11 @@
       .col-lg-1
       .col-lg-10
         .cajon.color-primario.p-4         
-          p.mb-0 Y como la protección de la vida es un deber del estado consagrado en el artículo 2 de nuestra constitución política, el ministerio de minas y energía como máxima autoridad en materia energética, adoptó los reglamentos técnicos orientados a garantizar la protección de la vida de las personas contra los riesgos que puedan provenir de los bienes y servicios relacionados con el sector a su cargo
+          p.mb-0 Y como la protección de la vida es un deber del Estado consagrado en el artículo 2 de la Constitución Política de Colombia, el Ministerio de Minas y Energía como máxima autoridad en materia energética, adoptó los reglamentos técnicos orientados a garantizar la protección de la vida de las personas contra los riesgos que puedan provenir de los bienes y servicios relacionados con el sector a su cargo
       .col-lg-1
 
     #t_1_1.titulo-segundo
-      h2 1.1  Reglamento técnico de instalaciones eléctricas (RETIE).
+      h2 1.1  Reglamento Técnico de Instalaciones Eléctricas - RETIE
     
     p.mb-4 Es un documento donde se establecen los requisitos técnicos que deben cumplir las instalaciones eléctricas para garantizar la seguridad de las personas, de la vida tanto animal como vegetal y la preservación del medio ambiente contra los riesgos de origen eléctrico. Adicionalmente, señala las exigencias y especificaciones que garantizan la seguridad de las instalaciones eléctricas con base en su buen funcionamiento; la confiabilidad, calidad y adecuada utilización de los productos y equipos.
     p.mb-4 Está organizado en capítulos y artículos así:
@@ -52,10 +52,10 @@
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
-              p <b>Enlace web.</b> Para profundizar el tema, en el siguiente enlace podrá descargar la última versión vigente del RETIE (30 de agosto de 2013 + ajustes a 2015)
+              p <b>Enlace web.</b> Para profundizar en el tema, en el siguiente enlace podrá descargar la última versión vigente del RETIE (30 de agosto de 2013 + ajustes a 2015)
 
     #t_1_2.titulo-segundo
-      h2 1.2  Reglamento técnico de iluminación y alumbrado público (RETILAP)
+      h2 1.2  Reglamento Técnico de Iluminación y Alumbrado Público - RETILAP
 
     p.mb-4 Es un documento donde se establecen los requisitos y medidas que deben cumplir los sistemas de iluminación y alumbrado público, tendientes a garantizar los niveles y calidades de la energía lumínica requerida en la actividad visual, la seguridad en el abastecimiento energético, la protección del consumidor y la preservación del medio ambiente; previniendo, minimizando o eliminando los riesgos originados, por la instalación y uso de sistemas de iluminación. Adicionalmente, señala las exigencias y especificaciones mínimas para que las instalaciones de iluminación garanticen la seguridad y confort con base en su buen diseño y desempeño operativo, así como los requisitos de los productos empleados en las mismas.
     p.mb-5 Está organizado en capítulos y secciones así:
@@ -69,12 +69,12 @@
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
-              p <b>Enlace web.</b> Para profundizar el tema, en el siguiente enlace podrá descargar la última versión vigente del RETILAP (30 de marzo de 2010 sin ajustes)
+              p <b>Enlace web.</b> Para profundizar en el tema, en el siguiente enlace podrá descargar la última versión vigente del RETILAP (30 de marzo de 2010 sin ajustes)
 
     #t_1_3.titulo-segundo
-      h2 1.3  Código eléctrico colombiano (NTC 2050)
+      h2 1.3  Código Eléctrico Colombiano NTC 2050
 
-    p.mb-4 Es un documento de carácter técnico elaborado por el Instituto Colombiano de Normas Técnicas y Certificación<br>(ICONTEC) y cuyo objetivo es la salvaguardia de las personas y de los bienes contra los riesgos que pueden surgir por el uso de la electricidad y que no pretende marcar especificaciones de diseño ni de ser un manual de instrucciones para personal no calificado. Antes de la entrada en vigencia del RETIE era el marco normativo de referencia para los organismos con jurisdicción legal sobre las instalaciones eléctricas. Cuando el gobierno nacional permitió a las empresas de derecho privado acceder a la propiedad de infraestructura del sector eléctrico, se eliminó la obligatoriedad de cumplimiento de las normas técnicas y se adoptó el concepto de reglamento técnico donde por definición no se pueden crear obstáculos innecesarios al comercio y cualquier restricción debe referirse sólo a objetivos legítimos como la protección de la vida y salud humana, de la vida animal y vegetal y del medio ambiente. Sin embargo, como ya se mencionó, el RETIE en el numeral 27.1 establece el contenido de los capítulos uno al siete y el del diez de la NTC 2050 primera actualización (1998), como de obligatorio cumplimiento.
+    p.mb-4 Es un documento de carácter técnico elaborado por el Instituto Colombiano de Normas Técnicas y Certificación<br>(ICONTEC) y cuyo objetivo es la salvaguardia de las personas y de los bienes contra los riesgos que pueden surgir por el uso de la electricidad y que no pretende marcar especificaciones de diseño ni de ser un manual de instrucciones para personal no calificado. Antes de la entrada en vigencia del RETIE, era el marco normativo de referencia para los organismos con jurisdicción legal sobre las instalaciones eléctricas. Cuando el Gobierno Nacional permitió a las empresas de derecho privado acceder a la propiedad de infraestructura del sector eléctrico, se eliminó la obligatoriedad de cumplimiento de las normas técnicas y se adoptó el concepto de reglamento técnico, donde por definición no se pueden crear obstáculos innecesarios al comercio y cualquier restricción debe referirse sólo a objetivos legítimos como la protección de la vida y salud humana, de la vida animal y vegetal y del medio ambiente. Sin embargo, como ya se mencionó, el RETIE en el numeral 27.1 establece el contenido de los capítulos uno al siete y el del diez de la NTC 2050, primera actualización (1998), como de obligatorio cumplimiento.
     p.mb-5 Está organizado en capítulos y artículos así:
 
     SlyderB.mb-5(:datos="datosSlyder3")

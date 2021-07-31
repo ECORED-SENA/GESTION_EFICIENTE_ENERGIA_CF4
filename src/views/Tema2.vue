@@ -6,19 +6,19 @@
     .titulo-principal
       .titulo-principal__numero
         span 2
-      h1 Caracterización del Sector Eléctrico Colombiano.
+      h1 Caracterización del sector eléctrico colombiano
 
     figure.mb-5
       img(src='@/assets/curso/tema2/img01.png')  
 
-    p.mb-4 La electricidad es parte fundamental en nuestro estilo de vida. Prácticamente en la mayoría de actividades que realizamos independientemente de nuestra edad y ocupación necesitamos de este recurso tan valioso. Se ha preguntado alguna vez ¿Cómo llega a nuestros hogares la energía eléctrica que usamos para encender los teléfonos móviles, el computador, la nevera y los demás dispositivos eléctricos y electrónicos? Aunque parezca sencillo, todo hace parte de un proceso que ha tomado varios años en implementar y mejorar, y que involucra al gobierno nacional, a muchas entidades públicas y privadas, y en general a profesionales que se han unido para que podamos tener disponible este recurso con solo conectar un enchufe al tomacorriente y oprimir un botón.
+    p.mb-4 La electricidad es parte fundamental en nuestro estilo de vida. Prácticamente en la mayoría de las actividades que realizamos independientemente de nuestra edad y ocupación, necesitamos de este recurso tan valioso. Se ha preguntado alguna vez, ¿cómo llega a nuestros hogares la energía eléctrica que usamos para encender los teléfonos móviles, el computador, la nevera y los demás dispositivos eléctricos y electrónicos? Aunque parezca sencillo, todo hace parte de un proceso que ha tomado varios años en implementar y mejorar, y que involucra al Gobierno Nacional, a muchas entidades públicas y privadas, y en general a profesionales que se han unido para que podamos tener disponible este recurso con solo conectar un enchufe al tomacorriente y oprimir un botón.
     p.mb-5 A continuación, mostraremos cómo está organizado el sector eléctrico en Colombia y posteriormente entraremos en detalle de los agentes del mercado de la electricidad. 
         
     #t_2_1.titulo-segundo
-      h2 2.1 Organización del sector.
+      h2 2.1 Organización del sector
 
-    p.mb-4 La constitución política de Colombia, como ley máxima del estado, establece en el artículo 365 que los servicios públicos (agua, electricidad, gas) hacen parte de la finalidad social del estado y por lo tanto su prestación y realización eficiente deben ser asegurados a todos los habitantes del territorio nacional.
-    p.mb-5 En respuesta a este mandato constitucional, el estado colombiano promulgó las leyes 142 Servicios públicos domiciliarios y 143 Ley eléctrica, a través de las cuales se separaron las actividades del sector eléctrico y se adoptó la estructura organizacional mostrada en la Figura 1. 
+    p.mb-4 La Constitución Política de Colombia, como ley máxima del Estado, establece en el artículo 365 que los servicios públicos (agua, electricidad, gas) hacen parte de la finalidad social del Estado y por lo tanto su prestación y realización eficiente deben ser asegurados a todos los habitantes del territorio nacional.
+    p.mb-5 En respuesta a este mandato constitucional, el Estado colombiano promulgó la Ley 142 de servicios públicos domiciliarios y la Ley 143, a través de las cuales se separaron las actividades del sector eléctrico y se adoptó la estructura organizacional mostrada en la siguiente figura.
 
     figure.mb-5
       div.BorTit.mb-3.ms-3
@@ -36,7 +36,7 @@
       .col-lg-10.d-flex.align-items-center
         div 
           h4 Ministerio de Minas y Energía (MME)
-          p.mb-4 Una de sus funciones principales es la formulación, adopción e implementación de la política pública del sector administrativo de minas y energía. En el siguiente enlace puedes encontrar las funciones completas.
+          p.mb-4 Una de sus funciones principales es la formulación, adopción e implementación de la política pública del sector administrativo de minas y energía. En el siguiente enlace podrás encontrar las funciones completas.
           p.mb-0 https://www.minenergia.gov.co/funciones-y-deberes 
 
     hr
@@ -48,7 +48,7 @@
       .col-lg-10.d-flex.align-items-center
         div 
           h4.texto-blanco Unidad de Planeación Minero Energética (UPME)
-          p.texto-blanco.mb-4 Esta entidad está adscrita al MME y dentro de sus funciones principales está la planeación de manera coordinada con las entidades públicas y privadas del sector minero energético, para el avance y adaptación de los recursos del sector a las necesidades del país. En el siguiente enlace puedes encontrar las funciones completas.
+          p.texto-blanco.mb-4 Esta entidad está adscrita al MME y dentro de sus funciones principales está la planeación de manera coordinada con las entidades públicas y privadas del sector minero energético, para el avance y adaptación de los recursos del sector a las necesidades del país. En el siguiente enlace podrás encontrar las funciones completas.
           p.texto-blanco.mb-0 https://www1.upme.gov.co/Entornoinstitucional/NuestraEntidad/Paginas/Funciones-y-deberes.aspx
 
     hr
@@ -60,7 +60,7 @@
       .col-lg-10.d-flex.align-items-center
         div 
           h4 Comisión de Regulación de Energía y Gas (CREG)
-          p.mb-4 En una institución de carácter técnico que tiene como uno de los objetivos principales alcanzar la mayor cobertura a la población del país de los servicios de electricidad, gas natural y gas licuado de petróleo. Lo anterior garantizando la calidad al menor costo posible para el usuario, de tal manera que permita también un beneficio para las empresas que prestan este tipo de servicios. En el siguiente enlace puedes encontrar las funciones completas.
+          p.mb-4 En una institución de carácter técnico que tiene como uno de los objetivos principales alcanzar la mayor cobertura a la población del país de los servicios de electricidad, gas natural y gas licuado de petróleo. Lo anterior garantizando la calidad al menor costo posible para el usuario, de tal manera que permita también un beneficio para las empresas que prestan este tipo de servicios. En el siguiente enlace podrás encontrar las funciones completas.
           p.mb-0 https://www.creg.gov.co/creg/quienes-somos/funciones
 
     hr
@@ -84,7 +84,7 @@
       .col-lg-10.d-flex.align-items-center
         div 
           h4 Superintendencia de Industria y Comercio.
-          p.mb-4 Es la autoridad para la protección de la metrología legal, los derechos de los consumidores y la competencia en el país. En el siguiente enlace puedes encontrar las funciones completas.
+          p.mb-4 Es la autoridad para la protección de la metrología legal, los derechos de los consumidores y la competencia en el país. En el siguiente enlace podrás encontrar las funciones completas.
           p.mb-0 https://www.sic.gov.co/objetivos-y-funciones
 
     hr
@@ -95,8 +95,8 @@
           img(src='@/assets/curso/tema2/img08.png') 
       .col-lg-10.d-flex.align-items-center
         div 
-          h4.texto-blanco Compañía de expertos en mercados S.A. E.S.P. (XM)
-          p.texto-blanco.mb-4 Es una empresa de servicios públicos mixta del orden nacional, encargada de la operación del sistema interconectado nacional (SIN) y la administración del mercado de energía mayorista (MEM). En el siguiente enlace puedes encontrar las funciones completas.
+          h4.texto-blanco Compañía de Expertos en Mercados S.A. E.S.P. (XM)
+          p.texto-blanco.mb-4 Es una empresa de servicios públicos mixta del orden nacional, encargada de la operación del sistema interconectado nacional (SIN) y la administración del mercado de energía mayorista (MEM). En el siguiente enlace podrás encontrar las funciones completas.
           p.texto-blanco.mb-0 https://www.xm.com.co/corporativo/Paginas/Nuestra-empresa/que-hacemos.aspx
 
     hr
@@ -107,7 +107,7 @@
           img(src='@/assets/curso/tema2/img09.png') 
       .col-lg-10.d-flex.align-items-center
         div 
-          h4 Centro nacional de despacho (CND): 
+          h4 Centro Nacional de Despacho (CND) 
           p.mb-4 Se encarga de la planeación, la supervisión y el control de la operación integrada de los recursos de generación, interconexión y transmisión del Sistema Interconectado Nacional, teniendo como objetivo una operación segura, confiable y económica.          
 
     hr
@@ -118,7 +118,7 @@
           img(src='@/assets/curso/tema2/img08.png') 
       .col-lg-10.d-flex.align-items-center
         div 
-          h4.texto-blanco Administrador del sistema de intercambios comerciales (ASIC): 
+          h4.texto-blanco Administrador del Sistema de Intercambios Comerciales (ASIC)
           p.texto-blanco.mb-4 Se encarga del registro de las fronteras comerciales, de los contratos de energía a largo plazo; de la liquidación, facturación, cobro y pago de todas las transacciones que resulten en el Mercado de Energía Mayorista.
           p.texto-blanco.mb-0 https://www.xm.com.co/corporativo/Paginas/Nuestra-empresa/que-hacemos.aspx
 
@@ -130,8 +130,8 @@
           img(src='@/assets/curso/tema2/img11.png') 
       .col-lg-10.d-flex.align-items-center
         div 
-          h4 Consejo nacional de operación (CNO) 
-          p.mb-4 Es un organismo privado que tiene como función principal acordar los aspectos técnicos para garantizar que la operación del Sistema Interconectado Nacional sea segura, confiable y económica y ser el ejecutor del Reglamento de Operación. En el siguiente enlace puedes encontrar las funciones completas.
+          h4 Consejo Nacional de Operación (CNO) 
+          p.mb-4 Es un organismo privado que tiene como función principal acordar los aspectos técnicos para garantizar que la operación del Sistema Interconectado Nacional sea segura, confiable y económica y ser el ejecutor del Reglamento de Operación. En el siguiente enlace podrás encontrar las funciones completas.
           p.mb-0 https://www.cno.org.co/content/quienes-somos
 
     hr
@@ -142,14 +142,14 @@
           img(src='@/assets/curso/tema2/img12.png') 
       .col-lg-10.d-flex.align-items-center
         div 
-          h4.texto-blanco Comité asesor de comercialización (CAC).
-          p.texto-blanco.mb-4 Es un Comité creado por la Comisión de Regulación de Energía y Gas –CREG– mediante la Resolución 68 de 1999, con el objetivo de asistir en el seguimiento y la revisión de los aspectos comerciales del Mercado de Energía Mayorista. En el siguiente enlace puedes encontrar las funciones completas.
+          h4.texto-blanco Comité Asesor de Comercialización (CAC)
+          p.texto-blanco.mb-4 Es un Comité creado por la Comisión de Regulación de Energía y Gas (CREG), mediante la Resolución 68 de 1999, con el objetivo de asistir en el seguimiento y la revisión de los aspectos comerciales del Mercado de Energía Mayorista. En el siguiente enlace podrás encontrar las funciones completas.
           p.texto-blanco.mb-0 http://www.cac.org.co/2016/html/quienes.html
 
     hr
 
     #t_2_2.titulo-segundo
-      h2 2.2 Agentes del Mercado de la Energía Eléctrica.
+      h2 2.2 Agentes del mercado de la energía eléctrica
 
     .row.mb-4
       .col-lg-1
@@ -159,13 +159,13 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema2/img13.svg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Seguramente ha escuchado hablar del término Mercado. Normalmente cuando hablamos de Mercado nos imaginamos un lugar con acceso público o puestos de venta donde podemos comprar todo tipo de productos. Pues bien, para la energía eléctrica existe un mercado en donde se hacen todas las compras y ventas de energía. La gran diferencia es que para la energía existen mayores regulaciones y controles al ser un bien de primera necesidad y también que el acceso a este mercado no es público, sino que se realiza a través de otras entidades. Es decir, para comprar la energía en nuestros hogares no es posible que vayamos al mercado de energía directamente, sino que debemos comprarla a un agente que en este caso se llama comercializador. Para entender mejor cómo funcionan los agentes en el mercado de energía eléctrica, miraremos más a detalle cada uno de ellos y sus funciones principales.
+            p.mb-0 Seguramente ha escuchado hablar del término Mercado. Normalmente cuando hablamos de mercado nos imaginamos un lugar con acceso público o puestos de venta donde podemos comprar todo tipo de productos. Pues bien, para la energía eléctrica existe un mercado en donde se hacen todas las compras y ventas de energía. La gran diferencia es que para la energía existen mayores regulaciones y controles al ser un bien de primera necesidad y también que el acceso a este mercado no es público, sino que se realiza a través de otras entidades. Es decir, para comprar la energía en nuestros hogares no es posible que vayamos al mercado de energía directamente, sino que debemos comprarla a un agente que en este caso se llama comercializador. Para entender mejor cómo funcionan los agentes en el mercado de energía eléctrica, miraremos con más detalle cada uno de ellos y sus funciones principales.
       .col-lg-1
 
     .row.mb-5
       .col-lg-4
       .col-lg-7        
-          a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+          a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=YWEXLSjaYf0&t=178se" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
@@ -177,8 +177,8 @@
         figure.mb-4
           img(src='@/assets/curso/tema2/img14.png') 
         p.mb-4 Los agentes generadores son aquellos que desarrollan la actividad de producción de energía eléctrica, que puede ser transada en la bolsa o mediante contratos bilaterales con otros generadores, comercializadores o directamente con grandes usuarios (usuarios no regulados).
-        p.mb-4 La generación de energía eléctrica del país se encuentra concentrada principalmente en tres regiones: Antioquia, con una capacidad instalada soportada principalmente por recursos hidráulicos; Centro, también mayoritariamente por recursos hidráulicos y en segundo lugar generación con carbón; y en tercer lugar la Costa Atlántica donde la electricidad se produce en su mayor parte a partir de gas natural.
-        p.mb-4 La estructura organizacional básica de las empresas de generación, está conformada por una junta directiva, una gerencia general de la que dependen una subgerencia asociada asociada directamente a la producción de energía.
+        p.mb-4 La generación de energía eléctrica del país se encuentra concentrada principalmente en tres regiones: Antioquia, con una capacidad instalada soportada principalmente por recursos hidráulicos; Centro, también mayoritariamente por recursos hidráulicos y en segundo lugar generación con carbón; y finalmente la Costa Atlántica, donde la electricidad se produce en su mayor parte a partir de gas natural.
+        p.mb-4 La estructura organizacional básica de las empresas de generación está conformada por una junta directiva, una gerencia general de la que dependen una subgerencia asociada directamente a la producción de energía.
       
       .tarjeta.t2_div3.p-4(titulo="Transmisión")
         h4 Transmisión
@@ -192,10 +192,10 @@
         ul.lista-ul--color
           li.ps-3 
             i.fas.fa-check            
-            | Sistema Central que alimenta la región de Bogotá, reconocido como el mayor mercado de energía del país.
+            | Sistema Central, que alimenta la región de Bogotá, reconocido como el mayor mercado de energía del país.
           li.ps-3
             i.fas.fa-check            
-            | Sistema Oeste que alimenta el segundo mayor mercado conformado por la región de Antioquia
+            | Sistema Oeste, que alimenta el segundo mayor mercado conformado por la región de Antioquia.
           li.ps-3 
             i.fas.fa-check            
             | Sistema Sur. 
@@ -211,16 +211,16 @@
         figure.mb-4
           img(src='@/assets/curso/tema2/img16.png') 
 
-        p.mb-4 Esta actividad consiste en transportar energía eléctrica a través de un conjunto de líneas y subestaciones, con sus equipos asociados, que operan a tensiones menores de 220 kV que no pertenecen a un sistema de transmisión regional por estar dedicadas al servicio de un sistema de distribución municipal, distrital o local.
+        p.mb-4 Esta actividad consiste en transportar energía eléctrica a través de un conjunto de líneas y subestaciones, con sus equipos asociados, que operan a tensiones menores de 220 kV, que no pertenecen a un sistema de transmisión regional por estar dedicadas al servicio de un sistema de distribución municipal, distrital o local.
         p.mb-4 La infraestructura asociada con la actividad de distribución consiste básicamente de líneas y subestaciones, clasificadas de acuerdo con los siguientes niveles de operación:
 
-        p.mb-0 Nivel 4: Sistemas con tensión nominal mayor o igual a 57,5 kV y menor a 220 kV.
-        p.mb-0 Nivel 3: Sistemas con tensión nominal mayor o igual a 30 kV y menor de 57,5 kV.
-        p.mb-0 Nivel 2: Sistemas con tensión nominal mayor o igual a 1 kV y menor de 30 kV.
-        p.mb-4 Nivel 1: Sistemas con tensión nominal menor a 1 kV.
+        p.mb-0 Nivel 4: sistemas con tensión nominal mayor o igual a 57,5 kV y menor a 220 kV.
+        p.mb-0 Nivel 3: sistemas con tensión nominal mayor o igual a 30 kV y menor de 57,5 kV.
+        p.mb-0 Nivel 2: sistemas con tensión nominal mayor o igual a 1 kV y menor de 30 kV.
+        p.mb-4 Nivel 1: sistemas con tensión nominal menor a 1 kV.
 
         div.ps-5 
-          a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+          a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=tlQNRJxpvxU&t=63s" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
@@ -230,7 +230,7 @@
         h4 Comercialización
         .row
           .col-lg-7
-            p.mb-4 Esta actividad consiste en la compra de energía eléctrica en el mercado mayorista y su venta en el mismo mercado o a los usuarios finales, regulados o no regulados, bien sea que desarrolle esa actividad en forma exclusiva o combinada con otras actividades del Sector Eléctrico, diferente de transmisión.
+            p.mb-4 Esta actividad consiste en la compra de energía eléctrica en el mercado mayorista y su venta en el mismo mercado o a los usuarios finales, regulados o no regulados, bien sea que desarrolle esa actividad en forma exclusiva o combinada con otras actividades del sector eléctrico, diferente de transmisión.
             p.mb-4 Los comercializadores son aquellos agentes que básicamente prestan un servicio de intermediación entre los usuarios finales de energía y los agentes que generan, transmiten y distribuyen electricidad.
             p.mb-4Si observas la factura de electricidad que llega a tu hogar, podrás descubrir el nombre de la empresa comercializadora que te vende la electricidad. 
           .col-lg-5

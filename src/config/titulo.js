@@ -1,2 +1,1 @@
-module.exports =
-  'Procesos y Normatividad del Sector Eléctrico'
+module.exports = 'Procesos y Normatividad del Sector Eléctrico'

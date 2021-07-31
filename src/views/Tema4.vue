@@ -61,37 +61,41 @@
 
     p.mb-5 Con el fin de controlar el cumplimiento del RETIE, el gobierno nacional ha encargado a las siguientes entidades para su vigilancia y el control:
 
-    .row.mb-5.justify-content-around
-      .col-lg-2.d-flex
+    .row.mb-4
+      .col-lg-1
+      .col-lg-3.d-flex
         div
-          div.t4-div1.p-3
+          div.t4-div1.p-3(style="height:50%")
             p.texto-blanco.mb-0 <b>Superintendencia de Servicios Públicos Domiciliarios:</b> encargada de vigilar el cumplimiento del RETIE en lo relacionado con las instalaciones eléctricas para la prestación del servicio público de electricidad.
-          figure
-            img(src='@/assets/curso/tema4/img05.png')
-      .col-lg-2.d-flex
+          figure(style="height:50%")
+            img(style="height:100%" src='@/assets/curso/tema4/img05.png')
+      .col-lg-3.d-flex
         div
-          figure
-            img(src='@/assets/curso/tema4/img06.png')
-          div.t4-div2.p-3
+          figure(style="height:50%")
+            img(style="height:100%" src='@/assets/curso/tema4/img06.png')
+          div.t4-div2.p-3(style="height:50%")
             p.texto-blanco <b>Superintendencia de Industria y Comercio:</b> encargada de supervisar vigilar y sancionar a los organismos de certificación e inspección, así como a los laboratorios de pruebas y ensayos y de metrología, que presten servicio de evaluación de la conformidad relacionados con el presente reglamento          
-      .col-lg-2.d-flex
+      .col-lg-3.d-flex
         div
-          div.t4-div2.p-3
+          div.t4-div3.p-3(style="height:50%")
             p.texto-blanco.mb-0 <b>Alcaldías municipales o distritales:</b> los alcaldes ejercerán en sus respectivas jurisdicciones las mismas facultades administrativas de control y vigilancia que la Superintendencia de Industria y Comercio.
-          figure
-            img(src='@/assets/curso/tema4/img07.png')
-      .col-lg-2.d-flex
+          figure(style="height:50%")
+            img(style="height:100%" src='@/assets/curso/tema4/img07.png')
+      
+    .row.mb-5
+      .col-lg-1      
+      .col-lg-3.d-flex
         div
-          figure
-            img(src='@/assets/curso/tema4/img08.png')
-          div.t4-div1.p-3
+          figure(style="height:50%")
+            img(style="height:100%" src='@/assets/curso/tema4/img08.png')
+          div.t4-div4.p-3(style="height:50%")
             p.texto-blanco <b>Dirección de Impuestos y Aduanas Nacionales:</b> encargada de la revisión documental del registro o licencia de importación.        
-      .col-lg-2.d-flex
+      .col-lg-3.d-flex
         div
-          div.t4-div2.p-3
+          div.t4-div5.p-3(style="height:50%")
             p.texto-blanco.mb-0 <b>Consejos Profesionales:</b> encargada de la vigilancia y control del ejercicio profesional de los ingenieros, tecnólogos y técnicos de la electrotecnia, que intervienen en dichas instalaciones.
-          figure
-            img(src='@/assets/curso/tema4/img09.png')
+          figure(style="height:50%")
+            img(style="height:100%" src='@/assets/curso/tema4/img09.png')
 
     p Le invitamos a leer los artículos 36 y 37 del RETIE para conocer más detalles acerca de la vigilancia, control y régimen sancionatorio.
 

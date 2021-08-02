@@ -54,7 +54,7 @@
             figure
               img(src='@/assets/curso/tema3/img05.png')            
           .col-lg-2
-        p Con fines de verificación y medición de las XXXXX se instala en la parte superior de algunos electrodos del SPAT una caja cuadrada de concreto o PVC de 30 x 30 cm o una sección de tubo de gres vitrificado o PVC de 12“ de diámetro con tapa removible.
+        p Con fines de verificación y medición de la resistencia de la puesta en tierra se instala en la parte superior de algunos electrodos del SPAT una caja cuadrada de concreto o PVC de 30 x 30 cm o una sección de tubo de gres vitrificado o PVC de 12“ de diámetro con tapa removible.
       .tarjeta.t2_div3.p-4(titulo="Electrodo de puesta a tierra")
         h4 Tratamiento químico del suelo
         .row.mb-4

@@ -298,6 +298,13 @@ export default {
       link: 'https://www.cno.org.co/content/quienes-somos',
     },
     {
+      texto:
+        'Instituto Colombiano de Normas Técnicas y Certificación - ICONTEC. (1998). Norma Técnica Colombiana NTC 2050 Código Eléctrico Colombiano. Recuperado el 6 de julio del 2021 de la base de datos biblioteca SENA.',
+      tipo: 'Norma Técnica Colombiana Código Eléctrico Colombiano.',
+      link:
+        'https://login.bdigital.sena.edu.co/login?url=https://e-collection.icontec.org/pdfview/viewer.aspx?locale=es-419&Q=C195B9DF4FA291EC9E5470A4AD574D93312408EA304CDFA9&Req=',
+    },
+    {
       texto: 'ISAGEN. (2012). Cómo se genera la energía [Video]. Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=YWEXLSjaYf0&t=178s',
@@ -327,6 +334,12 @@ export default {
       tipo: 'Resolución Reglamento Técnico de Instalaciones Eléctricas RETIE.',
       descarga:
         '/downloads/Anexo General del RETIE vigente actualizado a 2015-1.pdf',
+    },
+    {
+      texto:
+        'Servicio Nacional de Aprendizaje - SENA. (2013). Caracterización del sector eléctrico colombiano. Recuperado el 6 de julio del 2021 del repositorio SENA.',
+      tipo: 'Publicación Oficial.',
+      link: 'https://hdl.handle.net/11404/2138',
     },
     {
       texto:

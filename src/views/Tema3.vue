@@ -44,7 +44,7 @@
             figure
               img(src='@/assets/curso/tema3/img04.png')
           .col-lg-1
-        p Los puntos de unión entre los electrodos de puesta a tierra y los conductores de conexión equipotencial del SPAT deben realizarse con soldadura exotérmica o conector certificado para instalación bajo suelo según norma NTC 2206 y deben ser apropiados para el calibre del conductor de conexión equipotencial establecido en la tabla 250-94 de la NTC 2050
+        p Los puntos de unión entre los electrodos de puesta a tierra y los conductores de conexión equipotencial del SPAT deben realizarse con soldadura exotérmica o conector certificado para instalación bajo suelo según norma NTC 2206 y deben ser apropiados para el calibre del conductor de conexión equipotencial establecido en la tabla 250-94 de la NTC 2050.
 
       .tarjeta.t2_div3.p-4(titulo="Cajas de inspección")
         h4 Cajas de inspección
@@ -54,7 +54,7 @@
             figure
               img(src='@/assets/curso/tema3/img05.png')            
           .col-lg-2
-        p Con fines de verificación y medición de las se instala en la parte superior de algunos electrodos del SPAT una caja cuadrada de concreto o PVC de 30 x 30 cm o una sección de tubo de gres vitrificado o PVC de 12“ de diámetro con tapa removible
+        p Con fines de verificación y medición de las XXXXX se instala en la parte superior de algunos electrodos del SPAT una caja cuadrada de concreto o PVC de 30 x 30 cm o una sección de tubo de gres vitrificado o PVC de 12“ de diámetro con tapa removible.
       .tarjeta.t2_div3.p-4(titulo="Electrodo de puesta a tierra")
         h4 Tratamiento químico del suelo
         .row.mb-4
@@ -69,7 +69,7 @@
             figure
               img(src='@/assets/curso/tema3/img07.png')            
           .col-lg-2
-        p Cuando la resistividad del terreno es muy alta la cantidad de conductor de cobre enterrado se incrementa al igual que el número de electrodos. En estos casos puede instalarse un tratamiento químico al suelo circundante a los electrodos y conductores equipotenciales del SPAT tales como sales electrolíticas o cementos conductivos con la finalidad de mejorar la resistividad del terreno
+        p Cuando la resistividad del terreno es muy alta la cantidad de conductor de cobre enterrado se incrementa al igual que el número de electrodos. En estos casos puede instalarse un tratamiento químico al suelo circundante a los electrodos y conductores equipotenciales del SPAT tales como sales electrolíticas o cementos conductivos con la finalidad de mejorar la resistividad del terreno.
       .tarjeta.t2_div3.p-4(titulo="Nomenclatura")
         h4 Nomenclatura
         p De acuerdo a la nomenclatura adoptada en la norma IEC 61364-4 los tipos de sistemas de puesta a tierra se identifican mediante un código de dos o tres letras, en donde la primera especifica la forma en que el conductor neutro de la fuente se conecta a tierra (T = conectado a tierra, I = no conectado a tierra o conectado a través de una alta impedancia) y la combinación de segunda y tercera especifican el punto de conexión del conductor de protección (PE = protective earth) de las partes metálicas de los equipos (T = conectado a tierra, N-S = conectado al neutro de la fuente, N-C = conectado al neutro del equipo).

@@ -12,7 +12,7 @@
       img(src='@/assets/curso/tema2/img01.png')  
 
     p.mb-4 La electricidad es parte fundamental en nuestro estilo de vida. Prácticamente en la mayoría de las actividades que realizamos independientemente de nuestra edad y ocupación, necesitamos de este recurso tan valioso. Se ha preguntado alguna vez, ¿cómo llega a nuestros hogares la energía eléctrica que usamos para encender los teléfonos móviles, el computador, la nevera y los demás dispositivos eléctricos y electrónicos? Aunque parezca sencillo, todo hace parte de un proceso que ha tomado varios años en implementar y mejorar, y que involucra al Gobierno Nacional, a muchas entidades públicas y privadas, y en general a profesionales que se han unido para que podamos tener disponible este recurso con solo conectar un enchufe al tomacorriente y oprimir un botón.
-    p.mb-5 A continuación, mostraremos cómo está organizado el sector eléctrico en Colombia y posteriormente entraremos en detalle de los agentes del mercado de la electricidad. 
+    p.mb-5 A continuación, mostraremos cómo está organizado el sector eléctrico en Colombia y posteriormente, entraremos en detalle de los agentes del mercado de la electricidad.
         
     #t_2_1.titulo-segundo
       h2 2.1 Organización del sector
@@ -37,7 +37,8 @@
         div 
           h4 Ministerio de Minas y Energía (MME)
           p.mb-4 Una de sus funciones principales es la formulación, adopción e implementación de la política pública del sector administrativo de minas y energía. En el siguiente enlace podrás encontrar las funciones completas.
-          p.mb-0 https://www.minenergia.gov.co/funciones-y-deberes 
+          p.mb-0 
+            a(href="https://www.minenergia.gov.co/funciones-y-deberes" target="_blank") https://www.minenergia.gov.co/funciones-y-deberes 
 
     hr
 
@@ -49,7 +50,8 @@
         div 
           h4.texto-blanco Unidad de Planeación Minero Energética (UPME)
           p.texto-blanco.mb-4 Esta entidad está adscrita al MME y dentro de sus funciones principales está la planeación de manera coordinada con las entidades públicas y privadas del sector minero energético, para el avance y adaptación de los recursos del sector a las necesidades del país. En el siguiente enlace podrás encontrar las funciones completas.
-          p.texto-blanco.mb-0 https://www1.upme.gov.co/Entornoinstitucional/NuestraEntidad/Paginas/Funciones-y-deberes.aspx
+          p.texto-blanco.mb-0 
+            a(href="https://www1.upme.gov.co/Entornoinstitucional/NuestraEntidad/Paginas/Funciones-y-deberes.aspx" target="_blank") https://www1.upme.gov.co/Entornoinstitucional/NuestraEntidad/Paginas/Funciones-y-deberes.aspx
 
     hr
 
@@ -61,7 +63,8 @@
         div 
           h4 Comisión de Regulación de Energía y Gas (CREG)
           p.mb-4 En una institución de carácter técnico que tiene como uno de los objetivos principales alcanzar la mayor cobertura a la población del país de los servicios de electricidad, gas natural y gas licuado de petróleo. Lo anterior garantizando la calidad al menor costo posible para el usuario, de tal manera que permita también un beneficio para las empresas que prestan este tipo de servicios. En el siguiente enlace podrás encontrar las funciones completas.
-          p.mb-0 https://www.creg.gov.co/creg/quienes-somos/funciones
+          p.mb-0 
+            a(href="https://www.creg.gov.co/creg/quienes-somos/funciones" target="_blank") https://www.creg.gov.co/creg/quienes-somos/funciones
 
     hr
 
@@ -72,8 +75,9 @@
       .col-lg-10.d-flex.align-items-center
         div 
           h4.texto-blanco Superintendencia de Servicios Públicos.
-          p.texto-blanco.mb-4 Es una entidad facultada por el estado para ejercer funciones de inspección, vigilancia y control sobre las organizaciones y empresas que prestan los servicios públicos de energía, gas, acueducto, aseo y alcantarillado.<br>En el siguiente enlace puedes encontrar las funciones completas.
-          p.texto-blanco.mb-0 https://www.superservicios.gov.co/nuestra-entidad/quienes-somos/funciones
+          p.texto-blanco.mb-4 Es una entidad facultada por el estado para ejercer funciones de inspección, vigilancia y control sobre las organizaciones y empresas que prestan los servicios públicos de energía, gas, acueducto, aseo y alcantarillado.<br>En el siguiente enlace podrás encontrar las funciones completas.
+          p.texto-blanco.mb-0 
+            a(href="https://www.superservicios.gov.co/nuestra-entidad/quienes-somos/funciones" target="_blank") https://www.superservicios.gov.co/nuestra-entidad/quienes-somos/funciones
 
     hr
 
@@ -85,7 +89,8 @@
         div 
           h4 Superintendencia de Industria y Comercio.
           p.mb-4 Es la autoridad para la protección de la metrología legal, los derechos de los consumidores y la competencia en el país. En el siguiente enlace podrás encontrar las funciones completas.
-          p.mb-0 https://www.sic.gov.co/objetivos-y-funciones
+          p.mb-0 
+            a(href="https://www.sic.gov.co/objetivos-y-funciones" target="_blank") https://www.sic.gov.co/objetivos-y-funciones
 
     hr
 
@@ -97,7 +102,8 @@
         div 
           h4.texto-blanco Compañía de Expertos en Mercados S.A. E.S.P. (XM)
           p.texto-blanco.mb-4 Es una empresa de servicios públicos mixta del orden nacional, encargada de la operación del sistema interconectado nacional (SIN) y la administración del mercado de energía mayorista (MEM). En el siguiente enlace podrás encontrar las funciones completas.
-          p.texto-blanco.mb-0 https://www.xm.com.co/corporativo/Paginas/Nuestra-empresa/que-hacemos.aspx
+          p.texto-blanco.mb-0 
+            a(href="https://www.xm.com.co/corporativo/Paginas/Nuestra-empresa/que-hacemos.aspx" target="_blank") https://www.xm.com.co/corporativo/Paginas/Nuestra-empresa/que-hacemos.aspx
 
     hr
 
@@ -115,12 +121,13 @@
     .row.p-3.t2_div2
       .col-lg-2
         figure
-          img(src='@/assets/curso/tema2/img08.png') 
+          img(src='@/assets/curso/tema2/img10.png') 
       .col-lg-10.d-flex.align-items-center
         div 
           h4.texto-blanco Administrador del Sistema de Intercambios Comerciales (ASIC)
           p.texto-blanco.mb-4 Se encarga del registro de las fronteras comerciales, de los contratos de energía a largo plazo; de la liquidación, facturación, cobro y pago de todas las transacciones que resulten en el Mercado de Energía Mayorista.
-          p.texto-blanco.mb-0 https://www.xm.com.co/corporativo/Paginas/Nuestra-empresa/que-hacemos.aspx
+          p.texto-blanco.mb-0 
+            a(href="https://www.xm.com.co/corporativo/Paginas/Nuestra-empresa/que-hacemos.aspx" target="_blank") https://www.xm.com.co/corporativo/Paginas/Nuestra-empresa/que-hacemos.aspx
 
     hr
 
@@ -132,7 +139,8 @@
         div 
           h4 Consejo Nacional de Operación (CNO) 
           p.mb-4 Es un organismo privado que tiene como función principal acordar los aspectos técnicos para garantizar que la operación del Sistema Interconectado Nacional sea segura, confiable y económica y ser el ejecutor del Reglamento de Operación. En el siguiente enlace podrás encontrar las funciones completas.
-          p.mb-0 https://www.cno.org.co/content/quienes-somos
+          p.mb-0 
+          a(href="https://www.cno.org.co/content/quienes-somos" target="_blank") https://www.cno.org.co/content/quienes-somos
 
     hr
 
@@ -144,7 +152,8 @@
         div 
           h4.texto-blanco Comité Asesor de Comercialización (CAC)
           p.texto-blanco.mb-4 Es un Comité creado por la Comisión de Regulación de Energía y Gas (CREG), mediante la Resolución 68 de 1999, con el objetivo de asistir en el seguimiento y la revisión de los aspectos comerciales del Mercado de Energía Mayorista. En el siguiente enlace podrás encontrar las funciones completas.
-          p.texto-blanco.mb-0 http://www.cac.org.co/2016/html/quienes.html
+          p.texto-blanco.mb-0 
+            a(href="http://www.cac.org.co/2016/html/quienes.html" target="_blank") http://www.cac.org.co/2016/html/quienes.html
 
     hr
 
@@ -232,7 +241,7 @@
           .col-lg-7
             p.mb-4 Esta actividad consiste en la compra de energía eléctrica en el mercado mayorista y su venta en el mismo mercado o a los usuarios finales, regulados o no regulados, bien sea que desarrolle esa actividad en forma exclusiva o combinada con otras actividades del sector eléctrico, diferente de transmisión.
             p.mb-4 Los comercializadores son aquellos agentes que básicamente prestan un servicio de intermediación entre los usuarios finales de energía y los agentes que generan, transmiten y distribuyen electricidad.
-            p.mb-4Si observas la factura de electricidad que llega a tu hogar, podrás descubrir el nombre de la empresa comercializadora que te vende la electricidad. 
+            p.mb-4 Si observas la factura de electricidad que llega a tu hogar, podrás descubrir el nombre de la empresa comercializadora que te vende la electricidad. 
           .col-lg-5
             figure
               img(src='@/assets/curso/tema2/img17.png')
@@ -261,7 +270,7 @@
                 img(src='@/assets/curso/tema2/img19.svg')
 
         div.ps-5 
-          a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+          a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=LriXlAKUd9A&t=25s" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto

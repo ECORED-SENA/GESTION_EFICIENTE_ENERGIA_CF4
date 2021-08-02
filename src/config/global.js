@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Procesos y Normatividad del Sector Eléctrico',
+    componenteFormativo: 'Procesos y normatividad del sector eléctrico',
     descripcionCurso:
       'Conocer la normatividad relacionada con los productos e instalaciones eléctricas y la caracterización del sector eléctrico colombiano, permite al estudiante observar la aplicación práctica de los conceptos básicos adquiridos en el área de la electricidad y electrónica. Adicionalmente acerca al estudiante a los conceptos básicos que se manejan para los Sistemas de Gestión de la Energía.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
@@ -184,7 +184,11 @@ export default {
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje - SENA. (2013). Caracterización del sector eléctrico colombiano. Recuperado el 6 de julio del 2021 del repositorio SENA',
+        'Servicio Nacional de Aprendizaje - SENA. (2013). Caracterización del sector eléctrico colombiano. Recuperado el 6 de julio del 2021 del repositorio SENA. Publicación Oficial.',
+    },
+    {
+      referencia:
+        'Instituto Colombiano de Normas Técnicas y Certificación - ICONTEC. (1998). Norma Técnica Colombiana NTC 2050 Código Eléctrico Colombiano. Recuperado el 6 de julio del 2021 de la base de datos biblioteca SENA. Norma Técnica Colombiana Código Eléctrico Colombiano.',
     },
   ],
   glosario: [
@@ -253,7 +257,7 @@ export default {
     {
       termino: 'Tensión transferida',
       significado:
-        'es un caso especial de tensión de contacto, donde un potencial es conducido hasta un punto remoto respecto a la subestación o a una puesta a tierra',
+        'es un caso especial de tensión de contacto, donde un potencial es conducido hasta un punto remoto respecto a la subestación o a una puesta a tierra.',
     },
     {
       termino: 'UPME',
@@ -263,22 +267,45 @@ export default {
   complementario: [
     {
       texto:
-        'Servicio Nacional de Aprendizaje - SENA. (2013). Caracterización del sector eléctrico colombiano. Recuperado el 6 de julio del 2021 del repositorio SENA.',
-      tipo: 'Publicación Oficial.',
-      link: 'Repositorio SENA.',
+        'CENS Grupo EPM. (2015). Clases de Redes Eléctricas - Aprende con CENS [Video]. Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=tlQNRJxpvxU&t=63s',
     },
     {
       texto:
-        'Instituto Colombiano de Normas Técnicas y Certificación - ICONTEC. (1998). Norma Técnica Colombiana NTC 2050 Código Eléctrico Colombiano. Recuperado el 6 de julio del 2021 de la base de datos biblioteca SENA.',
-      tipo: 'Norma Técnica Colombiana Código Eléctrico Colombiano.',
-      link: 'Base de datos biblioteca SENA.',
+        'Comisión CREG. (2014). Conoce la factura de energía eléctrica [Video]. Youtube. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=LriXlAKUd9A&t=25s',
     },
     {
       texto:
-        'Resolución Número 90708 de 2013 y anexos. [Ministerio de Minas y Energía de Colombia]. Por la cual se expide el Reglamento Técnico de Instalaciones Eléctricas - RETIE, que fija las condiciones técnicas que garanticen la seguridad en los procesos de Generación, Transmisión, Transformación, Distribución y Utilización de la energía eléctrica en la República de Colombia y se dictan otras disposiciones. Agosto 30 de 2013.',
-      tipo: 'Resolución Reglamento Técnico de Instalaciones Eléctricas RETIE.',
-      link:
-        'https://www.minenergia.gov.co/documents/10180/1179442/Anexo+General+del+RETIE+vigente+actualizado+a+2015-1.pdf/57874c58-e61e-4104-8b8c-b64dbabedb13',
+        'Comisión de Regulación de Energía y Gas - CREG (2021). Funciones.',
+      tipo: 'Página web de la Comisión de Regulación de Energía y Gas.',
+      link: 'https://www.creg.gov.co/creg/quienes-somos/funciones',
+    },
+    {
+      texto:
+        'Comité Asesor de Comercialización del sector eléctrico. Quiénes somos. ',
+      tipo:
+        'Página web del Comité Asesor de Comercialización del sector eléctrico.',
+      link: 'http://www.cac.org.co/2016/html/quienes.html',
+    },
+    {
+      texto:
+        'Consejo Nacional de Operación del sector Eléctrico (2016). Quienes somos. ',
+      tipo:
+        'Página web del Consejo Nacional de Operación del sector Eléctrico.',
+      link: 'https://www.cno.org.co/content/quienes-somos',
+    },
+    {
+      texto: 'ISAGEN. (2012). Cómo se genera la energía [Video]. Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=YWEXLSjaYf0&t=178s',
+    },
+    {
+      texto: 'Ministerio de Minas y Energía de Colombia (2021). Funciones.',
+      tipo: 'Página web del Ministerio de Minas y Energía de Colombia.',
+      link: 'https://www.minenergia.gov.co/funciones-y-deberes',
     },
     {
       texto:
@@ -296,22 +323,17 @@ export default {
         'https://camacol.co/sites/default/files/Resoluci%C3%B3n%205018%20del%2020112019%20SST%20en%20energ%C3%ADa%20el%C3%A9ctrica.pdf',
     },
     {
-      texto: 'Ministerio de Minas y Energía de Colombia (2021). Funciones.',
-      tipo: 'Página web del Ministerio de Minas y Energía de Colombia.',
-      link: 'https://www.minenergia.gov.co/funciones-y-deberes',
+      texto:
+        'Resolución Número 90708 de 2013 y anexos. [Ministerio de Minas y Energía de Colombia]. Por la cual se expide el Reglamento Técnico de Instalaciones Eléctricas - RETIE, que fija las condiciones técnicas que garanticen la seguridad en los procesos de Generación, Transmisión, Transformación, Distribución y Utilización de la energía eléctrica en la República de Colombia y se dictan otras disposiciones. Agosto 30 de 2013.',
+      tipo: 'Resolución Reglamento Técnico de Instalaciones Eléctricas RETIE.',
+      descarga:
+        '/downloads/Anexo General del RETIE vigente actualizado a 2015-1.pdf',
     },
     {
       texto:
-        'Unidad de Planeación Minero Energética - UPME (2021). Funciones y deberes.',
-      tipo: 'Página web de la Unidad de Planeación Minero Energética.',
-      link:
-        'https://www1.upme.gov.co/Entornoinstitucional/NuestraEntidad/Paginas/Funciones-y-deberes.aspx',
-    },
-    {
-      texto:
-        'Comisión de Regulación de Energía y Gas - CREG (2021). Funciones.',
-      tipo: 'Página web de la Comisión de Regulación de Energía y Gas.',
-      link: 'https://www.creg.gov.co/creg/quienes-somos/funciones',
+        'Superintendencia de Industria y Comercio (2021). Objetivos y funciones.',
+      tipo: 'Página web de la Superintendencia de Industria y Comercio.',
+      link: 'https://www.sic.gov.co/objetivos-y-funciones',
     },
     {
       texto:
@@ -323,47 +345,16 @@ export default {
     },
     {
       texto:
-        'Superintendencia de Industria y Comercio (2021). Objetivos y funciones.',
-      tipo: 'Página web de la Superintendencia de Industria y Comercio.',
-      link: 'https://www.sic.gov.co/objetivos-y-funciones',
+        'Unidad de Planeación Minero Energética - UPME (2021). Funciones y deberes.',
+      tipo: 'Página web de la Unidad de Planeación Minero Energética.',
+      link:
+        'https://www1.upme.gov.co/Entornoinstitucional/NuestraEntidad/Paginas/Funciones-y-deberes.aspx',
     },
     {
       texto: 'XM (2021). Qué hacemos.',
       tipo: 'Página web de XM.',
       link:
         'https://www.xm.com.co/corporativo/Paginas/Nuestra-empresa/que-hacemos.aspx',
-    },
-    {
-      texto:
-        'Consejo Nacional de Operación del sector Eléctrico (2016). Quienes somos. ',
-      tipo:
-        'Página web del Consejo Nacional de Operación del sector Eléctrico.',
-      link: 'https://www.cno.org.co/content/quienes-somos',
-    },
-    {
-      texto:
-        'Comité Asesor de Comercialización del sector eléctrico. Quiénes somos. ',
-      tipo:
-        'Página web del Comité Asesor de Comercialización del sector eléctrico.',
-      link: 'http://www.cac.org.co/2016/html/quienes.html',
-    },
-    {
-      texto:
-        'ISAGEN. (2012). Cómo se genera la energía [Video]. Youtube. https://www.youtube.com/watch?v=YWEXLSjaYf0&t=178s',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=YWEXLSjaYf0&t=178s',
-    },
-    {
-      texto:
-        'CENS Grupo EPM. (2015). Clases de Redes Eléctricas - Aprende con CENS [Video]. Youtube.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=tlQNRJxpvxU&t=63s',
-    },
-    {
-      texto:
-        'Comisión CREG. (2014). Conoce la factura de energía eléctrica [Video]. Youtube. ',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=LriXlAKUd9A&t=25s',
     },
   ],
   creditos: {
@@ -379,51 +370,72 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Carlos Javier González Cuevas',
+        cargo: 'Experto técnico',
+        centro:
+          'Centro Electricidad Electrónica y Telecomunicaciones -  Distrito Capital',
+      },
+      {
+        nombre: 'Marlon Augusto Villamizar Morales',
+        cargo: 'Experto técnico',
+        centro: 'Global Green Growth Institute (GGGI)',
+      },
+      {
+        nombre: 'Leidy Carolina Arias Aguirre',
+        cargo: ' Diseñadora instruccional',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Revisora metodológica y pedagógica',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Jhana Johanna Bustillo Ardila',
+        cargo: 'Revisión de estilo',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     desarrolloProducto: [
       {
         nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
+        cargo: 'Responsable equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
-        cargo: 'Diseño web',
+        nombre: 'Anllelo Andres Reina Montañez',
+        cargo: 'Diseño web ',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Edgar Mauricio Cortes García',
+        cargo: 'Desarrollo front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
+        nombre: 'María Isabel Román Rueda',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },

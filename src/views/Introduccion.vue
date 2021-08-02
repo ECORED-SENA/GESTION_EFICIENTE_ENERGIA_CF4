@@ -11,7 +11,7 @@
 
     .row.justify-content-center.back-img(:style="{'background-image': `url(${require('@/assets/curso/img01.png')})`}")     
       .col-lg-4.p-3
-        figure
+        figure#introduccion_img
           img(src='@/assets/curso/img02.svg')      
       .col-lg-6.p-3.d-flex.align-items-center
         div

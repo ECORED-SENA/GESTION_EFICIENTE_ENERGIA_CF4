@@ -1,14 +1,57 @@
-.banner-principal__img
-  img
-    animation: float 6s ease-in-out infinite
+@keyframes flickerI
+ 0%
+  opacity: 0.4
+ 5%
+  opacity: 0.5
+ 10%
+  opacity: 0.6
+ 15%
+  opacity: 0.85
+ 25%
+  opacity: 0.5
+ 30%
+  opacity: 1
+ 35%
+  opacity: 0.1
+ 40%
+  opacity: 0.25
+ 45%
+  opacity: 0.5
+ 60%
+  opacity: 1
+ 70%
+  opacity: 0.85
+ 80%
+  opacity: 0.4
+ 90%
+  opacity: 0.5
+ 100%
+  opacity: 1
 
-@keyframes float
-  0%
-    transform: translateY(0px)
-  50%
-    transform: translateY(-20px)
-  100%
-    transform: translateY(0px)
+#introduccion_img
+  opacity: 1
+  position: relative
+  img
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    top: 20%
+    bottom: 63%
+    left: 40%
+    right: 42%
+    background: #E2E3E3
+    border-radius: 300px
+    opacity: 0.1
+    animation: flickerI 2s linear   reverse infinite
+    filter: blur(10px)
+@media screen and ( max-width: 1199px )
+  #introduccion_img
+    &::before
+      top: 27%
+      bottom: 55%
+      left: 35%
+      right: 48%
 
 .BorTit
   border-left: 5px solid #25FFFF

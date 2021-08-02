@@ -125,9 +125,7 @@
       .col-lg-10.d-flex.align-items-center
         div 
           h4.texto-blanco Administrador del Sistema de Intercambios Comerciales (ASIC)
-          p.texto-blanco.mb-4 Se encarga del registro de las fronteras comerciales, de los contratos de energía a largo plazo; de la liquidación, facturación, cobro y pago de todas las transacciones que resulten en el Mercado de Energía Mayorista.
-          p.texto-blanco.mb-0 
-            a(href="https://www.xm.com.co/corporativo/Paginas/Nuestra-empresa/que-hacemos.aspx" target="_blank") https://www.xm.com.co/corporativo/Paginas/Nuestra-empresa/que-hacemos.aspx
+          p.texto-blanco.mb-4 Se encarga del registro de las fronteras comerciales, de los contratos de energía a largo plazo; de la liquidación, facturación, cobro y pago de todas las transacciones que resulten en el Mercado de Energía Mayorista.         
 
     hr
 

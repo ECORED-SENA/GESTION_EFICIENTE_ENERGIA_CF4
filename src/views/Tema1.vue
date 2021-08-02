@@ -42,9 +42,38 @@
           p Mayor detalle del capítulo 8 (Artículos 27 al 30) de RETIE donde se establecen los requisitos que deben cumplir las instalaciones eléctricas destinadas a la conexión de equipos o aparatos para el uso final de la electricidad y en todo tipo de construcciones, ya sean de carácter público o privado
       .col-lg-1      
 
-    figure.mb-4
-      img(src='@/assets/curso/tema1/img10.png')  
 
+    ImagenInfografica.color-secundario.mb-5
+      template(v-slot:imagen)
+        figure
+          img(src='@/assets/curso/tema1/img10.png', alt='Texto que describa la imagen')         
+
+      .tarjeta.t1-div1.p-3(x="38%" y="45%")        
+        p <b>27.1.</b> Debido al alto número de incendios ocasionados por deficiencias en la instalación, en especial lo relacionado con dimensionamiento de conductores y protecciones, malas conexiones, daños de aislamiento de conductores y empalmes, uso de equipos, aparatos y materiales inapropiados, uso de lámparas y luminarias sin espacio para evacuación del calor, se debe dar especial atención al cumplimiento de los requisitos de instalación y de producto, y se establece el carácter de obligatorio para los capítulos 1 a 7 y 10 de la NTC 2050.
+    
+      .tarjeta.t1-div1.p-3(x="46%" y="61%")        
+        p <b>27.2.</b> En este numeral se establecen los regímenes de conexión a tierra aceptados, pero este asunto será desarrollado con mayor detalle en el tema 3 de este contenido.
+
+      .tarjeta.t1-div1.p-3(x="21%" y="55%")        
+        p <b>27.3.</b> En este numeral se establecen los requisitos de instalación de acometidas, adicionales a los definidos en las secciones 220 y 230 de la NTC 2050,  tales como los requeridos para cruces de vía, que los conductores aéreos deben ser de tipo antifraude concéntrico o trenzado, que la regulación de tensión no supere el 3%, se prohíbe el uso de conductores a la vista o incrustados directamente en fachadas, a menos que sean de cubierta XLPE o HDPE y que no contravengan normas de planeación municipal.
+
+      .tarjeta.t1-div1.p-3(x="50%" y="20%")        
+        p <b>27.4.</b> En este numeral se establecen los requisitos de protección y medida de las instalaciones para uso final.
+
+      .tarjeta.t1-div1.p-3(x="17%" y="22%")        
+        p <b>27.5.</b> En este numeral se establecen los requisitos de mantenimiento y conservación de instalaciones para uso final.
+
+      .tarjeta.t1-div1.p-3(x="56.3%" y="36%")        
+        p <b>27.6.</b> En este numeral se clasifican las instalaciones de uso final en <i><u><b>básicas, provisionales y especiales.</b></u></i>
+
+      .tarjeta.t1-div1.p-3(x="70%" y="7%")        
+        p Se definen las <b>instalaciones básicas</b> (aplican capítulos 1 a 4 de la NTC 2050) como aquellas de baja complejidad y riesgo, las redes externas de baja tensión particulares y públicas. Los requisitos adicionales aplicables a este tipo de instalaciones se establecen en el numeral 28.1
+
+      .tarjeta.t1-div1.p-3(x="69%" y="27%")        
+        p Se definen las <b>instalaciones provisionales</b> (aplica sección 305 de la NTC 2050) como aquellas que se construyen para suministrar el servicio de energía a un proyecto en construcción, con un tiempo de vigencia hasta la energización definitiva, la terminación de la construcción, o para el suministro temporal de energía a instalaciones transitorias como ferias o espectáculos, montajes de equipos, demoliciones y proyectos de investigación, tales como pruebas sísmicas o perforaciones exploratorias. La Condición de provisionalidad se otorgará para periodos no mayores a seis meses, prorrogables según el criterio del operador de red (OR) o quien preste el servicio, previa solicitud del usuario. Los requisitos adicionales aplicables a este tipo de instalaciones se establecen en el numeral 28.2
+
+      .tarjeta.t1-div1.p-3(x="61.5%" y="51.5%")        
+        p Se definen las <b>instalaciones especiales</b> (aplica sección 305 de la NTC 2050) como aquellas que por estar localizadas en ambientes clasificados como peligrosos o por alimentar equipos o sistemas complejos, presentan mayor probabilidad de riesgo que una instalación básica y, por tanto, requieren de medidas especiales, para mitigar o eliminar tales riesgos. Los requisitos adicionales aplicables a este tipo de instalaciones se establecen en el numeral 28.3.1 para instalaciones en lugares clasificados como peligrosos, en el numeral 28.3.2 para instalaciones e instituciones de asistencia médica, en el numeral 28.3.3 para lugares con alta concentración de personas, en el numeral 28.3.4 a 28.3.10  para edificaciones prefabricadas, de uso agrícola, viviendas móviles, casas flotantes, equipos especiales, piscinas y sistemas solares fotovoltaicos, en el numeral 28.3.11 para sistemas contra incendio, en el numeral 28.3.12 para sistemas de emergencia, en el numeral 28.3.13 para otros sistemas de suministro, en el artículo 29 para instalaciones en minas y finalmente en el artículo 30 para instalaciones en minas subterráneas.
     .row.mb-5
       .col-lg-5
       .col-lg-7        
@@ -177,9 +206,9 @@ export default {
         imagen: require('@/assets/curso/tema1/img14.png'),
       },
       {
-        titulo: '<b>Capítulo 5 (secciones 500 a 580).</b>',
+        titulo: 'Capítulo 5 (secciones 500 a 580).',
         texto:
-          'Alumbrado público e iluminación exterior<br>En este capítulo se establecen las consideraciones técnicas del diseño de alumbrado público según las características de las vías, los niveles exigidos de luminancia e iluminancia para cada una de ellas y las restricciones al uso de fuentes lumínicas según URE. Se describen métodos de cálculos fotométricos como el puntual, el promedio, el europeo de 9 puntos, el del coeficiente de utilización y usando software y métodos de evaluación y medición de luminancia<br>También se hacen consideraciones para el diseño de alumbrado de fachadas de edificios y monumentos públicos, escenarios deportivos y túneles y se establecen los requisitos de operación y mantenimiento de los sistemas de alumbrado público.',
+          '<b>Alumbrado público e iluminación exterior.</b><br>En este capítulo se establecen las consideraciones técnicas del diseño de alumbrado público según las características de las vías, los niveles exigidos de luminancia e iluminancia para cada una de ellas y las restricciones al uso de fuentes lumínicas según URE. Se describen métodos de cálculos fotométricos como el puntual, el promedio, el europeo de 9 puntos, el del coeficiente de utilización y usando software y métodos de evaluación y medición de luminancia<br>También se hacen consideraciones para el diseño de alumbrado de fachadas de edificios y monumentos públicos, escenarios deportivos y túneles y se establecen los requisitos de operación y mantenimiento de los sistemas de alumbrado público.',
         imagen: require('@/assets/curso/tema1/img15.png'),
       },
       {

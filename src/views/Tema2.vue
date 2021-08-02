@@ -138,7 +138,7 @@
           h4 Consejo Nacional de Operación (CNO) 
           p.mb-4 Es un organismo privado que tiene como función principal acordar los aspectos técnicos para garantizar que la operación del Sistema Interconectado Nacional sea segura, confiable y económica y ser el ejecutor del Reglamento de Operación. En el siguiente enlace podrás encontrar las funciones completas.
           p.mb-0 
-          a(href="https://www.cno.org.co/content/quienes-somos" target="_blank") https://www.cno.org.co/content/quienes-somos
+          a(href="https://www.cno.org.co/content/quienes-somos" target="_blank") <u>https://www.cno.org.co/content/quienes-somos</u>
 
     hr
 

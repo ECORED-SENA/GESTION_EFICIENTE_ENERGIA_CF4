@@ -312,15 +312,14 @@ export default {
         'Resolución Número 181331 de 2009 y anexo. [Ministerio de Minas y Energía de Colombia]. Por la cual se expide el Reglamento Técnico de Iluminación y Alumbrado Público RETILAP y se dictan otras disposiciones. Agosto 6 de 2009.',
       tipo:
         'Resolución Reglamento Técnico de Iluminación y Alumbrado Público RETILAP.',
-      link:
-        'https://www.minenergia.gov.co/documents/10180/23931303/RES180540_2010.pdf/a8e7e904-dc75-41a3-be82-9b990dd6ddb6',
+      descarga: '/downloads/RES180540_2010.pdf',
     },
     {
       texto:
         'Resolución Número 5018 de 2019 y anexo. [Ministerio del Trabajo]. Por la cual se establecen lineamientos en Seguridad y Salud en el Trabajo en los procesos de Generación, Transmisión, Distribución y Comercialización de la Energía Eléctrica. Noviembre 20 de 2019.',
       tipo: 'Resolución de Lineamientos en Seguridad y Salud en el Trabajo.',
-      link:
-        'https://camacol.co/sites/default/files/Resoluci%C3%B3n%205018%20del%2020112019%20SST%20en%20energ%C3%ADa%20el%C3%A9ctrica.pdf',
+      descarga:
+        '/downloads/Resolución 5018 del 20112019 SST en energía eléctrica.pdf',
     },
     {
       texto:

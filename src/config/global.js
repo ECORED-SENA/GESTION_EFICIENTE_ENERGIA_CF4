@@ -184,11 +184,7 @@ export default {
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje - SENA. (2013). Caracterización del sector eléctrico colombiano. Recuperado el 6 de julio del 2021 del repositorio SENA. Publicación Oficial.',
-    },
-    {
-      referencia:
-        'Instituto Colombiano de Normas Técnicas y Certificación - ICONTEC. (1998). Norma Técnica Colombiana NTC 2050 Código Eléctrico Colombiano. Recuperado el 6 de julio del 2021 de la base de datos biblioteca SENA. Norma Técnica Colombiana Código Eléctrico Colombiano.',
+        'Servicio Nacional de Aprendizaje - SENA. (2013). Caracterización del sector eléctrico colombiano. Recuperado el 6 de julio del 2021 del repositorio SENA.',
     },
   ],
   glosario: [

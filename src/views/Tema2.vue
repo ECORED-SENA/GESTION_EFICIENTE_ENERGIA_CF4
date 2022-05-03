@@ -103,7 +103,7 @@
           h4.texto-blanco Compañía de Expertos en Mercados S.A. E.S.P. (XM)
           p.texto-blanco.mb-4 Es una empresa de servicios públicos mixta del orden nacional, encargada de la operación del sistema interconectado nacional (SIN) y la administración del mercado de energía mayorista (MEM). En el siguiente enlace podrás encontrar las funciones completas.
           p.texto-blanco.mb-0 
-            a(href="https://www.xm.com.co/corporativo/Paginas/Nuestra-empresa/que-hacemos.aspx" target="_blank") https://www.xm.com.co/corporativo/Paginas/Nuestra-empresa/que-hacemos.aspx
+            a(href="https://www.xm.com.co/nuestra-empresa/nosotros/que-hacemos" target="_blank") https://www.xm.com.co/nuestra-empresa/nosotros/que-hacemos
 
     hr
 

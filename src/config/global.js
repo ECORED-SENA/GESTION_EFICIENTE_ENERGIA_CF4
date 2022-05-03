@@ -315,21 +315,21 @@ export default {
         'Resolución Número 181331 de 2009 y anexo. [Ministerio de Minas y Energía de Colombia]. Por la cual se expide el Reglamento Técnico de Iluminación y Alumbrado Público RETILAP y se dictan otras disposiciones. Agosto 6 de 2009.',
       tipo:
         'Resolución Reglamento Técnico de Iluminación y Alumbrado Público RETILAP.',
-      descarga: '/downloads/RES180540_2010.pdf',
+      descarga: 'downloads/RES180540_2010.pdf',
     },
     {
       texto:
         'Resolución Número 5018 de 2019 y anexo. [Ministerio del Trabajo]. Por la cual se establecen lineamientos en Seguridad y Salud en el Trabajo en los procesos de Generación, Transmisión, Distribución y Comercialización de la Energía Eléctrica. Noviembre 20 de 2019.',
       tipo: 'Resolución de Lineamientos en Seguridad y Salud en el Trabajo.',
       descarga:
-        '/downloads/Resolución 5018 del 20112019 SST en energía eléctrica.pdf',
+        'downloads/Resolución 5018 del 20112019 SST en energía eléctrica.pdf',
     },
     {
       texto:
         'Resolución Número 90708 de 2013 y anexos. [Ministerio de Minas y Energía de Colombia]. Por la cual se expide el Reglamento Técnico de Instalaciones Eléctricas - RETIE, que fija las condiciones técnicas que garanticen la seguridad en los procesos de Generación, Transmisión, Transformación, Distribución y Utilización de la energía eléctrica en la República de Colombia y se dictan otras disposiciones. Agosto 30 de 2013.',
       tipo: 'Resolución Reglamento Técnico de Instalaciones Eléctricas RETIE.',
       descarga:
-        '/downloads/Anexo General del RETIE vigente actualizado a 2015-1.pdf',
+        'downloads/Anexo General del RETIE vigente actualizado a 2015-1.pdf',
     },
     {
       texto:
@@ -361,8 +361,7 @@ export default {
     {
       texto: 'XM (2021). Qué hacemos.',
       tipo: 'Página web de XM.',
-      link:
-        'https://www.xm.com.co/corporativo/Paginas/Nuestra-empresa/que-hacemos.aspx',
+      link: 'https://www.xm.com.co/nuestra-empresa/nosotros/que-hacemos',
     },
   ],
   creditos: {

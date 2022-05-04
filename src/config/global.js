@@ -322,14 +322,14 @@ export default {
         'Resolución Número 5018 de 2019 y anexo. [Ministerio del Trabajo]. Por la cual se establecen lineamientos en Seguridad y Salud en el Trabajo en los procesos de Generación, Transmisión, Distribución y Comercialización de la Energía Eléctrica. Noviembre 20 de 2019.',
       tipo: 'Resolución de Lineamientos en Seguridad y Salud en el Trabajo.',
       descarga:
-        'downloads/Resolución 5018 del 20112019 SST en energía eléctrica.pdf',
+        'downloads/Resolucion_5018_del_20112019_SST_en_energia_electrica.pdf',
     },
     {
       texto:
         'Resolución Número 90708 de 2013 y anexos. [Ministerio de Minas y Energía de Colombia]. Por la cual se expide el Reglamento Técnico de Instalaciones Eléctricas - RETIE, que fija las condiciones técnicas que garanticen la seguridad en los procesos de Generación, Transmisión, Transformación, Distribución y Utilización de la energía eléctrica en la República de Colombia y se dictan otras disposiciones. Agosto 30 de 2013.',
       tipo: 'Resolución Reglamento Técnico de Instalaciones Eléctricas RETIE.',
       descarga:
-        'downloads/Anexo General del RETIE vigente actualizado a 2015-1.pdf',
+        'downloads/Anexo_General_del_RETIE_vigente_actualizado_a_2015-1.pdf',
     },
     {
       texto:

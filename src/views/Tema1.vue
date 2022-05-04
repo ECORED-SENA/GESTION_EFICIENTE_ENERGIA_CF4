@@ -77,7 +77,7 @@
     .row.mb-5
       .col-lg-5
       .col-lg-7        
-          a.anexo.mb-4.mb-lg-0(:href="obtenerLink('downloads/Anexo General del RETIE vigente actualizado a 2015-1.pdf')" target="_blank")
+          a.anexo.mb-4.mb-lg-0(:href="obtenerLink('downloads/Anexo_General_del_RETIE_vigente_actualizado_a_2015-1.pdf')" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
@@ -118,7 +118,7 @@
     .row.mb-5
       .col-lg-5
       .col-lg-7        
-          a.anexo.mb-4.mb-lg-0(:href="obtenerLink('downloads/Resolución 5018 del 20112019 SST en energía eléctrica.pdf')" target="_blank")
+          a.anexo.mb-4.mb-lg-0(:href="obtenerLink('downloads/Resolucion_5018_del_20112019_SST_en_energia_electrica.pdf')" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
